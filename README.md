@@ -1,2 +1,2 @@
 # filesafe
-WordPress / ClassicPress framework for securing file uploads and image manipulations
+WordPress / ClassicPress plugin/framework for securing file uploads and image manipulations
